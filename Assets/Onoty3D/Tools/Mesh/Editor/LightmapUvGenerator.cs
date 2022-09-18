@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Onoty3D.Tools.Mesh
 {
-    public class LightmapUvGenerator
+    public class LightmapUVGenerator
     {
         const string DIRECTORY_PATH = "Assets/Onoty3D/Output/LightmapUvGenerator/GeneratedMeshes/";
         const string ASSET_PATH = DIRECTORY_PATH + "{0}_WithLightMapUV.asset";

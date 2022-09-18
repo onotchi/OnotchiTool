@@ -6,7 +6,7 @@ namespace Onoty3D.Tools.Mesh
 {
     public class LightmapUVGenerator
     {
-        const string DIRECTORY_PATH = "Assets/Onoty3D/Output/LightmapUvGenerator/GeneratedMeshes/";
+        const string DIRECTORY_PATH = "Assets/Onoty3D/Output/LightmapUVGenerator/GeneratedMeshes/";
         const string ASSET_PATH = DIRECTORY_PATH + "{0}_WithLightMapUV.asset";
         const string ASSET_PATH2 = DIRECTORY_PATH + "{0}_WithLightMapUV ({1}).asset";
 

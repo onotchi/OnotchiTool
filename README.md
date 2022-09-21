@@ -1,5 +1,5 @@
 # OnotchiTool
-Unity向けのスクリプト群です。
+Unity向けのスクリプト群です。(大体VRChat絡みだったりするので、Unityバージョンは2019.4.31f1で確認しています。)
 
 ## LightmapUVGenerator
 *Assets/Onoty3D/Tools/Mesh/Editor/LightmapUVGenerator.cs*  
